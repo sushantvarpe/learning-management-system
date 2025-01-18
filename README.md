@@ -53,7 +53,7 @@ The **LMS (Learning Management System)** is a comprehensive web application desi
 ### Deployment 🚀
 The LMS project has been deployed on **Render**, with a secure and scalable connection to **MongoDB Atlas** for database management.
 
-- **Live Application**: [https://learning-management-system-05kx.onrender.com](url)
+- **Live Application**: [LMS Project](https://learning-management-system-05kx.onrender.com)
 
 ---
 
